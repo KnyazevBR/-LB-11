@@ -1,4 +1,4 @@
-﻿program zad1;
+program zad1;
 uses graphABC;
 begin
 line(40,40,180,40);
